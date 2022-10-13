@@ -1,0 +1,26 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+} 
+.reg-form{
+    width:100vw;
+    margin:10px auto;
+    margin-top:100px;
+    border:solid 1px rgb(57, 57, 74);
+    /* box-shadow:5px 5px 10px 15px rgb(77, 121, 209); */
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    height:450px;
+    padding:50px;
+    background: whitesmoke;
+   
+}
+body{
+    background: center;
+    min-height: 90vh; 
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,0.7511379551820728) 100%);
+    overflow-x: hidden;
+    
+}
+
